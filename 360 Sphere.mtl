@@ -1,0 +1,7 @@
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd LSCaptureFile_2018-08-26_22-50-14-610.png
+Ni 1.00
